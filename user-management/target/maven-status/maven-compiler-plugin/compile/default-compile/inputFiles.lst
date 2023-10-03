@@ -1,0 +1,15 @@
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\config\CustomJsonHttpLogFormatter.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\mappers\UserMapper.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\config\LogbookConfiguration.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\models\User.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\dtos\UserCreateDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\config\CustomStructuredHttpLogFormatter.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\Application.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\exceptions\UserNotFoundException.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\services\UserService.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\controllers\UserController.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\dtos\UserUpdateDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\dtos\UserDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\config\CustomSink.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\config\GlobalExceptionHandler.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\user-management\src\main\java\com\service\usermanagement\repositories\UserRepository.java

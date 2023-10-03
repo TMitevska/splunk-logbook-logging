@@ -1,0 +1,12 @@
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\models\Product.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\mappers\ProductMapper.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\Application.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\exceptions\ProductNotFoundException.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\dtos\ProductDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\services\ProductService.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\dtos\ProductCreateDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\dtos\ProductUpdateDto.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\config\GlobalExceptionHandler.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\controllers\ProductController.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\repositories\ProductRepository.java
+C:\Users\tamara.mitevska\ScaleFocus\company_projects\splunk_logging\application\catalogue\src\main\java\com\service\catalogue\config\LogbookConfiguration.java

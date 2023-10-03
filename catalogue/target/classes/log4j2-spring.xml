@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="catalogue-service-console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%style{%d{ISO8601}} %highlight{%-5level }[%style{%t}{bright,blue}] [%X{trace_id:-},%X{span_id:-}] %style{%C{10}}{bright,yellow}: %msg%n%throwable" disableAnsi="false"/>
+        </Console>
+        <SplunkHttp
+                name="catalogue-service-access-logs"
+                url="https://localhost:8088"
+                token="75266ec9-f1db-44f6-9782-333d8d1d5d32"
+                host="localhost"
+                index="catalogue_service_index"
+                source="catalogue-service-access-logs"
+                sourcetype="_json"
+                disableCertificateValidation="true"/>
+    </Appenders>
+
+    <Loggers>
+        <!-- LOG everything at INFO level -->
+        <Root level="info">
+            <AppenderRef ref="catalogue-service-console" />
+            <AppenderRef ref="catalogue-service-access-logs" />
+        </Root>
+    </Loggers>
+</Configuration>
